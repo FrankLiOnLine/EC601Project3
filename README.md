@@ -1,14 +1,17 @@
-# BU_EC601_MiniProject3
+# MySQL and MongoDB Project
 
-This is the mini project 3 for the course EC601 at BU.
+EC601 project #3 MySQL and MongoDB implement. The achieved functions are: Add an user, query an user, delete an user, search an image label and get general info.
 
-image_process.py is an update version of mini project 1, which includes downloading images from twitter through twitter API, converting images to video and analyzing images with Google Cloud API.
+## Getting Started
 
-twitter_imgs_mysql and twitter_imgs_MongoDB are the main part of this project. They can achieve the same operations with two databases:MySQL and MongoDB. The operations are: 1.Add an user 2.Query an user 3.Delete an user 4.Search an image label 5.Get general info
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-To run this project:
+## Running the tests
+To run this project:	
 
     mkdir twitter_pics
     python3 miniproject3_main.py
-    
-Since it's an update version of mini project 1, the same contents can be found in the "mini project 3" branch of the "mini project 1" repo.
+
+## Authors
+
+* **Frank Li** - *Initial work* - [PurpleBooth](https://github.com/FrankLiOnLine)
