@@ -4,7 +4,7 @@ EC601 project #3 MySQL and MongoDB implement. The achieved functions are: Add an
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.<\br>
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.<br>
 
 Packages you will need:
 
